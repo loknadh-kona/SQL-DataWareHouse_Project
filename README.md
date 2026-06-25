@@ -103,9 +103,6 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
-Hi, I’m Loknadh_Kona (but you can call me Loki). ⚡
-With an MS in Data Science and hands-on experience as a Systems Engineer and Data Scientist, I specialize in turning raw data into strategic assets. I approach a messy dataset a lot like a heavy lifting session at the gym: it takes discipline, the right technique, and a little bit of sweat to build solutions that scale and are built to last.
 
 ### Why I Built This Project
 
@@ -119,11 +116,6 @@ Engineered ETL Pipelines: Wrote robust T-SQL scripts to extract raw, fragmented 
 
 Delivered Business Intelligence: Transformed chaotic CSV files into a centralized, single source of truth capable of answering complex business questions regarding customer segmentation, product inventory, and sales forecasting.
 
-## Let's connect
-If something I've built looks interesting or useful, feel free to reach out.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvkrishna3/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
 
 
 ## 🙌 Acknowledgements
